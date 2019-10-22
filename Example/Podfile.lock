@@ -1,0 +1,16 @@
+PODS:
+  - Ale (0.1.0)
+
+DEPENDENCIES:
+  - Ale (from `../`)
+
+EXTERNAL SOURCES:
+  Ale:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Ale: 7cf4c356bedf47f77c5ad44d0c65c3efc1af20dd
+
+PODFILE CHECKSUM: 07d678e647974c7ff3446247c5c4af0f9946179e
+
+COCOAPODS: 1.8.4

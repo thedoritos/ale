@@ -1,0 +1,6 @@
+framework module Ale {
+  umbrella header "Ale-umbrella.h"
+
+  export *
+  module * { export * }
+}
